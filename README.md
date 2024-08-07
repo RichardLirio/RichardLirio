@@ -13,4 +13,4 @@ Tenho 31 anos de idade, moro altualmente em Vitoria/ES e hoje exerço minha prim
 ##
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorx26&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardLirio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
