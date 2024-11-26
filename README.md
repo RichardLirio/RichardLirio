@@ -1,7 +1,7 @@
 
 ## Seja bem vindo! Eu sou o Richard Silva Lirio 👋 
 
-Tenho 31 anos de idade, moro altualmente em Vitoria/ES e hoje exerço minha primeira experiencia profissional na area de tecnologia. Sou um estudante curioso e estou sempre buscando novos desafios e formas de aplicar minhas habilidades em projetos dentro da empresa que ocupo hoje. Alguns cases de sucesso que implementei são os consumos de Web Service de prefeituras para autorização de notas fiscais de serviço, em diversas cidades do estado do Espirito Santo. Implementei também a ferramente de suporte multi usuarios utilizando o WhatsApp, cujo repositorio está disponivel. 
+Tenho 31 anos de idade, moro atualmente em Vitoria/ES e hoje exerço minha primeira experiencia profissional na area de tecnologia. Sou um estudante curioso e estou sempre buscando novos desafios e formas de aplicar minhas habilidades em projetos dentro da empresa que ocupo hoje. Alguns cases de sucesso que implementei são os consumos de Web Service de prefeituras para autorização de notas fiscais de serviço, em diversas cidades do estado do Espirito Santo. Implementei também a ferramente de suporte multi usuarios utilizando o WhatsApp, cujo repositorio está disponivel. 
 
 ##
 ### Contatos
