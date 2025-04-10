@@ -1,10 +1,10 @@
 
-## Seja bem vindo! Eu sou o Richard Silva Lirio 👋 
+<h2 align="left">Hi, Welcome 👋! My name is Richard and I'm a Backend Developer</h2>
 
-Desenvolvedor Back-end com foco no ecossistema Javascript, possuo experiência no desenvolvimento e manutenção de APIs REST utilizando Node.js, Typescript, Fastify, Prisma, Docker, PostgreSQL e Vitest para testes unitários. Além disso, também tenho habilidades no front-end, criando interfaces responsivas com ReactJs.
+Backend Developer in the JavaScript ecosystem, with over 2 years of experience in scalable RESTful APIs using Node.js, TypeScript, and Fastify. I combine backend expertise (Prisma, Docker, PostgreSQL) with automated testing (Vitest) and full-stack skills (ReactJS) to deliver robust, innovative solutions.
 
 
-## Habilidades 🖥️
+##  🖥️
 <div display: 'inline-block'>
   <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,7 +19,7 @@ Desenvolvedor Back-end com foco no ecossistema Javascript, possuo experiência n
 </div>
 
 ##
-### Contatos
+### 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-silva-lirio-b97484250) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527997036921) 
@@ -28,4 +28,14 @@ Desenvolvedor Back-end com foco no ecossistema Javascript, possuo experiência n
 ##
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardLirio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RichardLirio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardLirio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
