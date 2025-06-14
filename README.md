@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi, Welcome 👋! My name is Richard and I'm a Backend Developer</h2>
 
-Backend Developer in the JavaScript ecosystem, with over 2 years of experience in scalable RESTful APIs using Node.js, TypeScript, and Fastify. I combine backend expertise (Prisma, Docker, PostgreSQL) with automated testing (Vitest) and full-stack skills (ReactJS) to deliver robust, innovative solutions.
+Backend Developer in the JavaScript ecosystem, with over 2 years of experience in scalable RESTful APIs using Node.js, TypeScript, and Fastify. I combine backend expertise (Prisma, Docker, PostgreSQL) with automated testing (Vitest) and full-stack skills (ReactJS and NextJs) to deliver robust, innovative solutions.
 
 
 ##  🖥️
